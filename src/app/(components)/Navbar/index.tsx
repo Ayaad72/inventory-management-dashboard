@@ -1,5 +1,5 @@
 "use client";
-import { Bell, BellDot, Menu, Settings, Sun } from "lucide-react";
+import { Bell, Menu, Settings, Sun } from "lucide-react";
 import React from "react";
 import Link from "next/link";
 

@@ -18,7 +18,7 @@ const Sidebar = () => {
       {/* LINKS */}
       <div className="flex-grow mt-8">{/* LINKS HERE */}</div>
       {/* FOOTER */}
-      <div className="">
+      <div>
         <p className="text-center text-xs text-gray-500">&copy; 2024 GBazar</p>
       </div>
     </div>
